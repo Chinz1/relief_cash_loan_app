@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "132300477451",
+    "project_id": "relief-cash-app",
+    "storage_bucket": "relief-cash-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132300477451:android:b91f9dd6cba6b0fdafa30e",
+        "android_client_info": {
+          "package_name": "com.example.small_loans_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132300477451-ia0kc309vvi1oudq415n53vagqqhgfme.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxIESb0WwzTlHXliMIz5vXW3gHF2M3-Ao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132300477451-ia0kc309vvi1oudq415n53vagqqhgfme.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "132300477451-bnne1ve1e5jdjvj5hpdtvboq5pl6u2u3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smallLoansApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
